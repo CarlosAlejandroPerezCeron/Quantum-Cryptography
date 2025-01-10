@@ -1,0 +1,6 @@
+Place the private_key.pem and cert.pem files (that you generated earlier with OpenSSL) inside this folder:
+
+bash
+Copy code
+mv ~/path_to_your_files/private_key.pem .
+mv ~/path_to_your_files/cert.pem .
